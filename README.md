@@ -1,6 +1,6 @@
 # 🔐 Multiple OTP Bypass Vulnerabilities
 
-**Program:** Bugcrowd Private Program  
+**Program:** Bugcrowd Public Program  
 **Category:** Authentication Bypass  
 **Severity:** Informational  
 **Status:** Resolved / Acknowledged
